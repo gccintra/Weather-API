@@ -1,2 +1,2 @@
 # Weather API
- Weather API in live
+ Weather API JavaScript
